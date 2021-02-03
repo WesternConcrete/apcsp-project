@@ -74,3 +74,6 @@ else:
         print("\nConfidence: Very Low")
     else:
         print("Unable to be determined")
+        
+while True:
+    pass
